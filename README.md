@@ -7,4 +7,6 @@
 
 ![Static Badge](https://img.shields.io/badge/-html%2Fcss-orange?logo=html5)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaxKoch23&show_icons=true&theme=radical)
+
 
